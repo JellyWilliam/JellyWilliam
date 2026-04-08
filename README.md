@@ -20,6 +20,10 @@ ML-инженер с фокусом на LLM-системы, RAG и компью
 - **On-prem RAG** для строительной документации (ТУ, ТЗ, СНиП) — Qdrant, vLLM,
   LangGraph, air-gapped развёртывание
 
+<p align="center">
+  <img src="assets/text2bim-graph.svg" width="100%" alt="Text2BIM architecture" />
+</p>
+
 ---
 
 ### Стек
@@ -80,6 +84,10 @@ deploy on-premise and in air-gapped environments for enterprise clients
   FastAPI, AutoGen, MCP integration with Revit (C#)
 - **On-prem RAG** for construction documentation — Qdrant, vLLM, LangGraph,
   air-gapped deployment
+
+<p align="center">
+  <img src="assets/text2bim-graph.svg" width="100%" alt="Text2BIM architecture" />
+</p>
 
 ### Stack
 

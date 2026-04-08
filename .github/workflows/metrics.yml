@@ -28,7 +28,7 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_categories: programming
           plugin_languages_limit: 6
-          plugin_languages_colors: "6366f1, 7c3aed, a78bfa, c4b5fd, 8b949e, 6b7280"
+          plugin_languages_colors: github
           plugin_languages_details: percentage
 
           # Стиль
