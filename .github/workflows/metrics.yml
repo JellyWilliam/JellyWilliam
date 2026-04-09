@@ -32,7 +32,6 @@ jobs:
           plugin_languages_details: percentage
 
           # Стиль
-          config_display: large
-          config_padding: 6%
+          config_padding: 6%, 20%
           config_output: svg
           config_timezone: Europe/Moscow
