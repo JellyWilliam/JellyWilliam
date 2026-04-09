@@ -47,11 +47,6 @@ ML-инженер с фокусом на LLM-системы, RAG и компью
   <img src="assets/metrics.svg" alt="GitHub Metrics" width="85%" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/JellyWilliam">
-    <img src="https://github-readme-stats.vercel.app/api?username=JellyWilliam&show_icons=true&theme=transparent&hide_border=true&title_color=6366f1&text_color=8b949e&icon_color=6366f1&bg_color=00000000" alt="GitHub Stats" />
-  </a>
-</p>
 
 ---
 
@@ -94,11 +89,6 @@ deploy on-premise and in air-gapped environments for enterprise clients
   <img src="assets/metrics.svg" alt="GitHub Metrics" width="85%" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/JellyWilliam">
-    <img src="https://github-readme-stats.vercel.app/api?username=JellyWilliam&show_icons=true&theme=transparent&hide_border=true&title_color=6366f1&text_color=8b949e&icon_color=6366f1&bg_color=00000000" alt="GitHub Stats" />
-  </a>
-</p>
 
 <!-- ### Contact
 [Telegram](https://t.me/TODO) · [Email](mailto:TODO) · [hh.ru](https://hh.ru/TODO)
