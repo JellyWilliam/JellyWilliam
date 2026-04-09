@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Даниил Киселёв · ML Engineer" />
+  <img src="assets/header.svg" width="100%" alt="Daniil Kiselyov · ML Engineer" />
 </p>
 
 ML-инженер с фокусом на LLM-системы, RAG и компьютерное зрение в продакшене.
