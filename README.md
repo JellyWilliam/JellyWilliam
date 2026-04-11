@@ -32,12 +32,14 @@ ML-инженер с фокусом на LLM-системы, RAG и компью
 
 ### Проекты
 
-<!-- TODO: запиннить до 6 репо через UI GitHub → Your profile → Customize your pins.
-     Пока в профиле нет витринных репозиториев — идеи:
-     1. rag-pipeline-demo — минимальный RAG с Qdrant + vLLM, docker-compose, бенчмарки
-     2. vlm-ocr-benchmark — сравнение VLM-моделей на OCR-задачах, метрики, визуализации -->
-
-*Витринные репозитории появятся здесь после пиннинга.*
+| Репозиторий | Описание |
+|-------------|----------|
+| [rag-pipeline-demo](https://github.com/kiselyovd/rag-pipeline-demo) | Модульный RAG-пайплайн — retrieval, reranking, generation |
+| [llm-finetune-template](https://github.com/kiselyovd/llm-finetune-template) | Шаблон для fine-tuning LLM с LoRA/QLoRA через Unsloth |
+| [dungeon-master-ai](https://github.com/kiselyovd/dungeon-master-ai) | D&D с AI — Clean Architecture, CQRS, FastAPI |
+| [x-pneumo-net](https://github.com/kiselyovd/x-pneumo-net) | Детекция пневмонии по рентгену — 26 архитектур, 84% accuracy |
+| [yolo-learn](https://github.com/kiselyovd/yolo-learn) | Практический курс по YOLO — 6 модулей |
+| [grnti-classifier](https://github.com/kiselyovd/grnti-classifier) | Классификация научных статей — BERT 86% F1 |
 
 ---
 

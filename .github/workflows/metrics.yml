@@ -30,6 +30,6 @@ jobs:
           plugin_languages_colors: github
           plugin_languages_details: percentage
 
-          config_padding: 5%
+          config_padding: 6%, 13%
           config_output: svg
           config_timezone: Europe/Moscow
