@@ -16,7 +16,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: assets/metrics.svg
-          user: JellyWilliam
+          user: kiselyovd
           committer_message: "Update assets/metrics.svg - [Skip GitHub Action]"
 
           template: classic
