@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Daniil Kiselyov · ML Engineer" />
+  <img src="assets/portfolio_banner.svg" width="100%" alt="Daniil Kiselyov · ML/MLOps Engineer" />
 </p>
 
 ML-инженер с фокусом на LLM-системы, RAG и компьютерное зрение в продакшене.
@@ -25,7 +25,7 @@ ML-инженер с фокусом на LLM-системы, RAG и компью
 ---
 
 <p align="center">
-  <img src="assets/stack.svg" width="85%" alt="Tech stack" />
+  <img src="assets/tech_stack.svg" width="85%" alt="Tech stack" />
 </p>
 
 ---
@@ -112,7 +112,7 @@ Every repo ships: patient-/scene-level splits with no leakage, bilingual EN+RU R
 ---
 
 <p align="center">
-  <img src="assets/stack.svg" width="85%" alt="Tech stack" />
+  <img src="assets/tech_stack.svg" width="85%" alt="Tech stack" />
 </p>
 
 ### Activity
